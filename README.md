@@ -1,32 +1,11 @@
 # Mini Katalog Uygulaması
 
-Flutter eğitimi kapsamında geliştirilmiş basit bir katalog uygulamasıdır.
+Flutter ile geliştirilmiş bir katalog uygulamasıdır.
 
-## Özellikler
+## Sürüm
 
-- Ürün listeleme
-- GridView kullanımı
-- Ürün detay sayfası
-- Navigator ile sayfa geçişleri
-- Hero animasyonu
-- Arama özelliği
-- Sepete ekleme simülasyonu
-- Material 3 tasarımı
-
-## Kullanılan Teknolojiler
-
-- Flutter SDK
-- Dart
-- Material Design 3
-
-## Proje Yapısı
-
-lib/
-├── data/
-├── models/
-├── pages/
-├── widgets/
-└── main.dart
+flutter_windows_3.44.6-stable
+pixel 9 android 16.0 api 36.0
 
 ## Çalıştırma
 
@@ -37,4 +16,4 @@ flutter run
 
 ## Geliştirici
 
-Ad Soyad
+Umut Dinç
